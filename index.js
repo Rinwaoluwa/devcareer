@@ -99,21 +99,21 @@
 
 
 // //  COMPARISM OPERATOR 
-console.log(' COMPARISM OPERATOR')
+// console.log(' COMPARISM OPERATOR')
 
-const ageToby = 40;
+// const ageToby = 40;
 
-const ageFemi = 50;
+// const ageFemi = 50;
 
-console.log(ageToby > ageFemi)
+// console.log(ageToby > ageFemi)
 
-console.log(ageToby <= ageFemi)
+// console.log(ageToby <= ageFemi)
 
 
-// // storing the value of the operation in avariable 
-const olderPerson =  ageToby > ageFemi
+// // // storing the value of the operation in avariable 
+// const olderPerson =  ageToby > ageFemi
 
-console.log(olderPerson)
+// console.log(olderPerson)
 
 // OPERATOR PRECEEDENCE
 
@@ -128,7 +128,7 @@ console.log(4 * 3 ** 2); // 4 * 9;
 
 console.log((4 * 3) ** 2) // 144
 
-// let x, y; // setting the initial value for 2 variales      to undefined 
+let x, y; // setting the initial value for 2 variales to undefined 
 
 console.log(x, y);
 
