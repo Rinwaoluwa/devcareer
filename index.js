@@ -19,7 +19,7 @@
 
 
 // let _lastName = 'mary';
-
+  
 // let $lastName = 'shola';
 
 
@@ -35,14 +35,14 @@
 // //  CONST
 // const  _birthYear = 2003;
 // // _birthYear = 2015;
-// console.log(_birthYear)
+// console.log(_birthYear);
 
 // // WORKS LIKE LET KEY WORD EXCEPT THAT IT IS HOISTED ---- MORE ON THAT MOVING FORWARD IN JAVASCRIPT
 
 // //  VAR 
 // // var $bithYear = 2003;
 
-// // console.log($bithYear)
+// // console.log($bithYear) 
 
 // $bithYear = 2004;
 
@@ -64,7 +64,7 @@
 
 
 // console.log(ageAda * 2, ageTobi / 10);
-
+ VarDate
 
 // //  PLUS OPERATOR 
 
@@ -118,13 +118,17 @@
 // OPERATOR PRECEEDENCE
 
 console.log(' OPERATOR PRECEDENCE ');
+// Try calculating this on your own what answer do you expect ? 
+// NOW COMAPRE IT TO THE ONE WE LOGGED TO THE CONSOLE
+// 4 * 3 ** 2  
 
-console.log(4 * 3 ** 2); // 4 * 9;
-// Expected output: 36;  
+console.log(4 * 3 ** 2); // 4 * 9; 
+// in browser console ==  36;  
+
 
 console.log((4 * 3) ** 2) // 144
 
-let x, y;
+let x, y; // setting the initial value for 2 variales to undefined 
 
 console.log(x, y);
 
