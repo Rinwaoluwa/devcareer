@@ -24,7 +24,7 @@
 
 
 // //  --------------DECLARING VARIABLES 
-
+// console.log('DECLARING VARIABLES')
 // //  LET
 // let birthYear = 1909;
 // console.log(birthYear);
@@ -64,14 +64,14 @@
 
 
 // console.log(ageAda * 2, ageTobi / 10);
- VarDate
+ 
 
 // //  PLUS OPERATOR 
-
+// console.log('PLUS OPERATOR')
 // const firstName = 'John'
 
 // const lastName = 'Doe'
-// 7
+
 // console.log(firstName + lastName)
 
 // // if you wanted space in between the names
@@ -91,7 +91,7 @@
 
 // //  increment by 1
 // x++
-// console.log(x) // x = x - 1;
+// console.log(x) // x = x - 1;    
 
 // // decrement by 1
 // x-- 
@@ -99,21 +99,21 @@
 
 
 // //  COMPARISM OPERATOR 
-// console.log(' COMPARISM OPERATOR')
+console.log(' COMPARISM OPERATOR')
 
-// const ageToby = 40;
+const ageToby = 40;
 
-// const ageFemi = 50;
+const ageFemi = 50;
 
-// console.log(ageTobi > ageFemi)
+console.log(ageToby > ageFemi)
 
-// console.log(ageToby <= ageFemi)
+console.log(ageToby <= ageFemi)
 
 
 // // storing the value of the operation in avariable 
-// const olderPerson =  ageTobi > ageFemi
+const olderPerson =  ageToby > ageFemi
 
-// console.log(olderPerson)
+console.log(olderPerson)
 
 // OPERATOR PRECEEDENCE
 
@@ -128,7 +128,7 @@ console.log(4 * 3 ** 2); // 4 * 9;
 
 console.log((4 * 3) ** 2) // 144
 
-let x, y; // setting the initial value for 2 variales to undefined 
+// let x, y; // setting the initial value for 2 variales      to undefined 
 
 console.log(x, y);
 
